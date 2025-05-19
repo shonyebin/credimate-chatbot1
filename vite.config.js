@@ -1,1 +1,1 @@
-export default { root: './src', base: './' }
+// placeholder for vite.config.js
