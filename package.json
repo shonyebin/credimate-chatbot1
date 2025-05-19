@@ -1,6 +1,5 @@
-
 {
-  "name": "credimate-chatbot-v1.6",
+  "name": "credimate-chatbot-v1.7",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
