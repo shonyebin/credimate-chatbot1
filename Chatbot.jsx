@@ -15,7 +15,7 @@ const Chatbot = ({ userId }) => {
         const entries = rows.slice(1).map((cols) =>
           Object.fromEntries(cols.map((v, i) => [headers[i], v]))
         );
-        const found = entries.find((row) => row["교육원아이디"] === userId);
+        const found = entries.find((row) => row["교육원아이디"].trim() === userId.trim());
         setStudent(found || {});
       });
   }, [userId]);
