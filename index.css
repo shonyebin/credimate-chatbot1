@@ -1,18 +1,1 @@
-body {
-  font-family: 'Arial', sans-serif;
-  background: #fff;
-  padding: 2rem;
-  color: #111;
-}
-input {
-  padding: 0.5rem;
-  font-size: 1rem;
-}
-button {
-  padding: 0.5rem 1rem;
-  font-size: 1rem;
-  background: #333;
-  color: #fff;
-  border: none;
-  cursor: pointer;
-}
+body { font-family: sans-serif; }

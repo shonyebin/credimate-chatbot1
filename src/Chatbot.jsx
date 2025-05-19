@@ -1,0 +1,1 @@
+export default function Chatbot() { return <div>Chatbot 기능</div>; }
